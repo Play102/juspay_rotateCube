@@ -1,0 +1,35 @@
+{
+  "name": "juspay_rotatecube",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-console": "^3.0.0",
+    "purescript-math": "^2.1.0",
+    "purescript-canvas": "^3.1.0",
+    "purescript-dom": "^4.8.2",
+    "purescript-eff": "^3.1.0",
+    "purescript-control": "^3.3.0",
+    "purescript-functions": "^3.0.0",
+    "purescript-maybe": "^3.0.0",
+    "purescript-jquery": "^4.2.1",
+    "purescript-refs": "^3.0.0",
+    "purescript-requestanimationframe": "^1.0.0",
+    "purescript-drawing": "^3.0.0",
+    "purescript-outwatch": "^0.7.0",
+    "purescript-quickcheck": "^4.6.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-math": "^2.0.0",
+    "purescript-decimals": "^2.0.0"
+  },
+  "resolutions": {
+    "purescript-dom": "^4.0.0",
+    "purescript-foldable-traversable": "^0.4.0"
+  }
+}
