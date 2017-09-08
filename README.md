@@ -1,7 +1,9 @@
 # Juspay Rotate Cube Task
 
 ### Compilation instruction
-    pulp build -O --main Main --to src/Main.js
+
+    > bower install --save
+    > pulp build -O --main Main --to src/Main.js
    
 ### Note
 
