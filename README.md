@@ -15,6 +15,8 @@
 2. http://petercollingridge.appspot.com/3D-tutorial/rotating-objects
 3. https://www.khanacademy.org/computer-programming/3d-tutorial-4/1648921303
 4. https://pursuit.purescript.org/
+5. https://leanpub.com/purescript/read
+6. https://learnxinyminutes.com/docs/purescript/
 
 ### Current result
 ![Screen shot ](/screen_shot.png)
