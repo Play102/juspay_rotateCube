@@ -15,6 +15,6 @@
 2.
 
 ### Current result
-![Screen shot ](/screen.png)
+![Screen shot ](/screen_shot.png)
 
 
